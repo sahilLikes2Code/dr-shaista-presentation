@@ -4,11 +4,16 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "deploy": "netlify deploy --prod"
   },
   "dependencies": {
     "@slidev/cli": "^0.47.0",
     "@slidev/theme-default": "^0.25.0",
     "@slidev/theme-seriph": "^0.25.0"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.40.0",
+    "netlify-cli": "^17.10.1"
   }
 }
