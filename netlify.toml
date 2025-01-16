@@ -9,3 +9,10 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+[dev]
+  framework = "#custom"
+  command = "npm run dev"
+  targetPort = 3030
+  port = 8888
+  publish = "dist"
