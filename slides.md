@@ -140,4 +140,4 @@ Website design for Dr Shaista Farooqui Kazi
 
 Made by StunningWeb
 
-[Click For More Information](https://wa.me/919716969546)
+[Click For More Information](https://wa.me/91 7042649050)
